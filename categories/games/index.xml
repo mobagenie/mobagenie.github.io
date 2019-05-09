@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moba Genie</title>
-    <link>https://www.mobagenie.id/</link>
-    <description>Recent content on Moba Genie</description>
+    <title>games on Moba Genie</title>
+    <link>https://www.mobagenie.id/categories/games/</link>
+    <description>Recent content in games on Moba Genie</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 07 May 2019 07:07:35 +0700</lastBuildDate>
     
-	<atom:link href="https://www.mobagenie.id/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mobagenie.id/categories/games/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -116,55 +116,6 @@ akan tetapi, tidak sedikit Developer Game yang justru membuat sebuah Video Game 
       
       <guid>https://www.mobagenie.id/brendan-greene-blak-blakan-soal-game-pubg-seri-3/</guid>
       <description>MobaGenie - Sebagai salah satu Game yang sangat populer di Tahun 2019, dan juga sebagai&amp;nbsp;Game&amp;nbsp;yang sukses mempopulerkan Genre Battle Royale, tentu saja banyak Gamer yang menantikan seri lanjutan dari PUBG. namun sayangnya, seperti yang MobaGenie kutip dari PCMag, salah satu orang yang memegang peranan penting di PUBG yaitu Brendan Greene, yang mana adalah pencipta dari Game PUBG justru blak-blakan mengungkapkan bahwa dirinya sama sekali tidak tertarik untuk membuat PUBG versi 2 atau sekuel-nya.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.mobagenie.id/login/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mobagenie.id/login/</guid>
-      <description>          Get Started   Create Account    Need Help?     </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.mobagenie.id/profile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mobagenie.id/profile/</guid>
-      <description> Follow      About me An artist of considerable range, Ryan — the name taken by Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and records all of his own music, giving it a warm, intimate feel with a solid groove structure. An artist of considerable range. My Portfolio                             </description>
-    </item>
-    
-    <item>
-      <title>Components</title>
-      <link>https://www.mobagenie.id/components/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mobagenie.id/components/</guid>
-      <description>Now UI Kit. A beautiful Bootstrap 4 UI kit. Yours free.  Designed by . Coded by . --          Basic Elements Buttons Pick your style
-Default Round  With Icon    Simple   Pick your size
-Small Regular Large   Pick your color
-Default Primary Info Success Warning Danger Neutral   Links Default Primary Info Success Warning Danger    Inputs Form Controls</description>
-    </item>
-    
-    <item>
-      <title>Write the best title for your page.</title>
-      <link>https://www.mobagenie.id/landing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mobagenie.id/landing/</guid>
-      <description>Who are we? According to the National Oceanic and Atmospheric Administration, Ted, Scambos, NSIDC lead scentist, puts the potentially record low maximum sea ice extent tihs year down to low ice extent in the Pacific and a late drop in ice extent in the Barents Sea.    &#34;Over the span of the satellite record, Arctic sea ice has been declining significantly, while sea ice in the Antarctichas increased very slightly&#34;</description>
-    </item>
-    
-    <item>
-      <title>Write the best title for your page.</title>
-      <link>https://www.mobagenie.id/template/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mobagenie.id/template/</guid>
-      <description>Here comes the body of the page&amp;hellip;
-## Look, a code block! library(tidyverse) 1 + 1  </description>
     </item>
     
   </channel>
